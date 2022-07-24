@@ -1,10 +1,12 @@
 # 👋 Hola
+<center>
 
 My name is __Claudio Barba__, I am 22 years old from __Sonora, México__ 🏜.  
 
 I've recently graduated from my __Software Engineering__ degree from [Sonora Institute of Technology](https://www.itson.mx/). My main language is __Spanish__ although I also know __English__ pretty well. I mainly work at __Backend Development__, but lately I've been seen as a __[DevOps/SysAdmin Engineer](https://devops.stackexchange.com/a/160)__.  
 
 I'm a little bit enthusiastic about optimizing stuff when necessary creating multi-threaded scripts that help me solve heavy bottlenecks quickly, or trying to keep good practices on the projects I'm currently involved in, even if my older public repositories contradict me a little bit. ✨
+
 
 You can ping me on these social networks:  
 [![](https://img.shields.io/badge/-@ClauditoBo-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/clauditobo)
@@ -50,3 +52,5 @@ You can ping me on these social networks:
 ##### (Left are the most used)
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+
+</center>
