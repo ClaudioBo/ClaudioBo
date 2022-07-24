@@ -44,7 +44,6 @@ I'm a little bit enthusiastic about optimizing stuff when necessary creating mul
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
-##### (Left to right are the most used and not used)
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
