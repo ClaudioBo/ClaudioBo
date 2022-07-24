@@ -14,7 +14,6 @@ You can ping me on these social networks:
 [![](https://img.shields.io/badge/-claudiobo1122@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:claudiobo1122@gmail.com)
 
 ## ⚡ Technologies
----
 <!-- DevOps: -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D42029?style=flat-square&logo=apache&logoColor=white)
