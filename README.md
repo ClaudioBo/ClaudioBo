@@ -1,5 +1,5 @@
 # 👋 Hola
-<center>
+<div align="center">
 
 My name is __Claudio Barba__, I am 22 years old from __Sonora, México__ 🏜.  
 
@@ -53,4 +53,4 @@ You can ping me on these social networks:
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-</center>
+</p>
