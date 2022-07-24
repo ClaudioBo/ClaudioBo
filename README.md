@@ -1,4 +1,4 @@
-# Hola 👋
+# 👋 Hola
 
 My name is __Claudio Barba__, I am 22 years old from __Sonora, México__ 🏜.  
 
@@ -13,7 +13,8 @@ You can ping me on these social networks:
 [![](https://img.shields.io/badge/-Claudio_Bo-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-bo/)
 [![](https://img.shields.io/badge/-claudiobo1122@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:claudiobo1122@gmail.com)
 
-# ⚡ Technologies (Left are the most used)
+## ⚡ Technologies
+---
 <!-- DevOps: -->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apache2](https://img.shields.io/badge/Apache2-D42029?style=flat-square&logo=apache&logoColor=white)
@@ -47,5 +48,6 @@ You can ping me on these social networks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404d59?style=flat-square&logo=express&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
+##### (Left are the most used)
+---
 ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
