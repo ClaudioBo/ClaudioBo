@@ -43,7 +43,7 @@ I'm a little bit enthusiastic about optimizing stuff when necessary creating mul
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-404d59?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClaudioBo&theme=monokai&hide_border=true) | 
+| ![Stats](https://github-readme-stats.vercel.app/api?username=claudiobo&count_private=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true&bg_color=0D1117) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=claudiobo&theme=github-dark-blue&hide_border=true) | 
 | - | - |
  
 You can ping me on these social networks:  
