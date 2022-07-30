@@ -34,6 +34,7 @@ I'm a little bit enthusiastic about optimizing stuff when necessary creating mul
 ![SQLite](https://img.shields.io/badge/SQLite-0f79c4?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-98729?style=for-the-badge&logo=node.js&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-6ca74a?style=for-the-badge&logo=splunk&logoColor=white)
 ![OVH](https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&logo=npm&logoColor=white)
