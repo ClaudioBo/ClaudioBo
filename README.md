@@ -52,11 +52,8 @@ I'm a little bit enthusiastic about optimizing stuff when necessary creating mul
 | :-: | :-: |  
 
 You can ping me on these social networks:  
-[![Instagram](https://img.shields.io/badge/-@ClauditoBo-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clauditobo)
-[![Twitter](https://img.shields.io/badge/-@ClauditoBo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/clauditobo)
 [![Discord](https://img.shields.io/badge/-Kledioz%236723-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/268557885980672001)
 [![LinkedIn](https://img.shields.io/badge/-Claudio_Bo-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-bo/)
-[![Gmail](https://img.shields.io/badge/-claudiobo1122@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiobo1122@gmail.com)
 
 [![claudiobo.com](https://img.shields.io/badge/-claudiobo.com-00a3da?style=for-the-badge&logo=microsoftedge&logoColor=white)](mailto:claudiobo1122@gmail.com)
 </div>
