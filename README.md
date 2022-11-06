@@ -4,7 +4,7 @@ My name is __Claudio Barba__, I am 22 years old from __Sonora, México__. 🏜
 My main language is __Spanish__ although I also know __English__ pretty well.  
 
 I've recently graduated from my __Software Engineering__ degree from [Sonora Institute of Technology](https://www.itson.mx/).  
-I mainly work at __Backend Development__, but lately I've been seen as a __DevOps/SysAdmin Engineer__.  
+I mainly work at __Backend Development__, but lately I've also been seen as a __DevOps Engineer__.  
 
 I'm a little bit enthusiastic about optimizing stuff when necessary creating multi-threaded scripts that help me solve heavy bottlenecks quickly, or trying to keep good practices on the projects I'm currently involved in, even if my older public repositories contradict me a little bit. ✨  
 <br>
