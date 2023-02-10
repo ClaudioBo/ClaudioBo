@@ -55,5 +55,5 @@ You can ping me on these social networks:
 [![Discord](https://img.shields.io/badge/-Kledioz%236723-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/268557885980672001)
 [![LinkedIn](https://img.shields.io/badge/-Claudio_Bo-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-bo/)
 
-[![claudiobo.com](https://img.shields.io/badge/-claudiobo.com-00a3da?style=for-the-badge&logo=microsoftedge&logoColor=white)](mailto:claudiobo1122@gmail.com)
+[![claudiobo.com](https://img.shields.io/badge/-claudiobo.com-00a3da?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://www.claudiobo.com)
 </div>
