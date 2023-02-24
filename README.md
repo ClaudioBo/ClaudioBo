@@ -44,7 +44,6 @@ I'm a little bit enthusiastic about optimizing stuff when necessary creating mul
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5400c9?style=for-the-badge&logo=insomnia&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 [![Gradle](https://img.shields.io/badge/Gradle-02303a?style=for-the-badge&logo=Gradle&logoColor=white)](#)
 
 
